@@ -1,0 +1,570 @@
+
+        /* background image  */
+        .img1 {
+            position: absolute;
+        }
+
+
+
+        /*main */
+        /* main */
+        .content {
+
+            z-index: 1;
+            position: absolute;
+
+        }
+
+        /* main */
+        /* main */
+
+        /*  */
+        /* top heading */
+        .ul {
+            display: flex;
+            list-style: none;
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .get-button1 {
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+            cursor: pointer;
+        }
+
+        .get-button {
+            background-color: #23a6f0;
+            border: none;
+            border-radius: 7px;
+            width: 270px;
+        }
+
+        .get-button:hover {
+            background-color: #4bb6f4;
+        }
+
+        .h1 {
+            margin-left: 90px;
+            font-weight: 300;
+            cursor: pointer;
+            margin-top: -10px;
+        }
+
+        .h2 {
+            margin-left: 90px;
+            font-weight: 300;
+            cursor: pointer;
+        }
+
+        .h3 {
+            margin-left: 50px;
+            font-weight: 300;
+            cursor: pointer;
+        }
+
+        .h4 {
+            margin-left: 50px;
+            font-weight: 300;
+            cursor: pointer;
+        }
+
+        .h5 {
+            margin-left: 50px;
+            font-weight: 300;
+            cursor: pointer;
+        }
+
+        .h6 {
+            margin-left: 230px;
+        }
+
+        /* main content meet the best hospital */
+        .main1 {
+            color: white;
+            margin-top: 210px;
+            margin-left: 200px;
+        }
+
+        .main2 {
+            font-size: 70px;
+            font-family: Arial, Helvetica, sans-serif;
+            border: 1px none;
+            width: 600px;
+        }
+
+        .main3 {
+            font-family: Arial, Helvetica, sans-serif;
+            border: 1px none;
+            width: 400px;
+            font-size: 25px;
+            font-weight: 290;
+        }
+
+        /* button */
+        .button-now {
+            background-color: #23a6f0;
+            border: none;
+            color: white;
+            border-top-right-radius: 100px;
+            border-top-left-radius: 100px;
+            border-bottom-right-radius: 100px;
+            border-bottom-left-radius: 100px;
+            width: 200px;
+            font-family: Arial, Helvetica, sans-serif;
+            cursor: pointer;
+        }
+
+        .button-more {
+            background-color: transparent;
+            border: 1px solid white;
+            color: white;
+            border-top-right-radius: 100px;
+            border-top-left-radius: 100px;
+            border-bottom-right-radius: 100px;
+            border-bottom-left-radius: 100px;
+            width: 200px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 500;
+            cursor: pointer;
+        }
+
+        .form {
+            border: 1px solid white;
+            width: 300px;
+            height: 580px;
+            background-color: white;
+            z-index: 2;
+            margin-left: 1000px;
+            margin-top: 170px;
+            border-radius: 10px;
+        }
+
+        .book {
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 799;
+            margin-left: 60px;
+            margin-top: 40px;
+        }
+
+        .name {
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 600;
+            padding-left: 20px;
+        }
+
+        .text {
+            width: 240px;
+            height: 40px;
+            margin-left: 20px;
+            background-color: #f9f9f9;
+            border: 1px solid #efefef;
+            padding-left: 20px;
+        }
+
+        .submit {
+            background-color: #23a6f0;
+            width: 240px;
+            border: none;
+            height: 40px;
+            margin-left: 20px;
+            border-radius: 4px;
+            color: white;
+            cursor: pointer;
+        }
+
+        /* page2 */
+        .page2 {
+            margin-top: 150px;
+            margin-left: 600px;
+            font-family: Arial, Helvetica, sans-serif;
+
+        }
+
+        .page2-entrence-line {
+            border: 1px none;
+            width: 400px;
+            font-weight: 540;
+        }
+
+        .page2-entrence-line1 {
+            border: 1px none;
+            width: 700px;
+            margin-top: -20px;
+            margin-left: -60px;
+            font-weight: 540;
+        }
+
+        .box1 {
+            border: 1px solid whitesmoke;
+            width: 350px;
+            height: 250px;
+            border-radius: 5px;
+        }
+
+        .box-box1 {
+            border: 1px solid whitesmoke;
+            width: 350px;
+            height: 110px;
+            background-color: #4bb6f4;
+            border-radius: 5px;
+        }
+
+        .box2 {
+            border: 1px solid whitesmoke;
+            width: 350px;
+            height: 250px;
+            border-radius: 5px;
+        }
+
+        .box3 {
+            border: 1px solid whitesmoke;
+            width: 350px;
+            height: 250px;
+            border-radius: 5px;
+        }
+
+        .three-box {
+            display: flex;
+            justify-content: space-around;
+            margin-left: -400px;
+            margin-right: 120px;
+            margin-top: 75px;
+        }
+
+        .circle {
+            border: 1px solid whitesmoke;
+            width: 70px;
+            height: 50px;
+            border-radius: 50%;
+            background-color: white;
+            margin-left: 50px;
+            margin-top: 30px;
+
+        }
+
+        .user1 {
+            margin-left: 22px;
+            margin-top: 15px;
+        }
+
+        .box-word {
+            display: flex;
+            color: white;
+            margin-top: -25px;
+            margin-left: 90px;
+            border: 1ps none;
+            width: 400px;
+        }
+
+        .list1 {
+            font-weight: 549;
+        }
+
+        /* page3 */
+        .page3-entrence-line {
+            border: 1px none;
+            width: 400px;
+            font-weight: 540;
+
+        }
+
+        .page3-entrence-line1 {
+            border: 1px none;
+            width: 700px;
+            margin-top: -20px;
+            margin-left: -60px;
+            font-weight: 540;
+        }
+
+        .page3 {
+            background-color: whitesmoke;
+            width: 1500px;
+            height: 460px;
+        }
+
+        .page3-1 {
+            margin-top: 150px;
+            margin-left: 600px;
+            font-family: Arial, Helvetica, sans-serif;
+            padding-top: 20px;
+
+        }
+
+        .box1-1 {
+            border: 1px solid rgb(228, 228, 228);
+            width: 300px;
+            height: 220px;
+            border-radius: 5px;
+            background-color: white;
+        }
+
+        .box1-2 {
+            border: 1px solid rgb(228, 228, 228);
+            width: 300px;
+            height: 220px;
+            border-radius: 5px;
+            background-color: white;
+        }
+
+        .box1-3 {
+            border: 1px solid rgb(228, 228, 228);
+            width: 300px;
+            height: 220px;
+            border-radius: 5px;
+            background-color: white;
+        }
+
+        .three-box1 {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 70px;
+            margin-bottom: 50px;
+        }
+
+        .star-image {
+            margin-left: 25px;
+            margin-top: 25px;
+        }
+
+        .slate-line {
+            font-weight: 500;
+            font-family: Arial, Helvetica, sans-serif;
+            border: 1px none;
+            width: 240px;
+            margin-left: 10%;
+        }
+
+        .user-pic {
+            margin-left: 20px;
+        }
+
+        .page4-head {
+            margin-left: 600px;
+
+        }
+
+        .FAQ-LIST1 {
+            list-style: url(arrow.png);
+            font-weight: bold;
+
+        }
+
+        .FAQ-LIST {
+            list-style: none;
+            flex-direction: column;
+
+        }
+
+        .FAQ-div {
+            font-family: Arial, Helvetica, sans-serif;
+            display: flex;
+            border: 1px none;
+            width: 870px;
+            height: 500px;
+            display: flex;
+            margin-left: 250px;
+            margin-top: 70px;
+        }
+
+        .FAQ-ul {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+
+        /* page5 */
+        .page5 {
+            background-color: whitesmoke;
+            width: 1480px;
+            height: 1050px;
+
+        }
+
+        .page5-head {
+            margin-left: 600px;
+            padding-top: 20px;
+        }
+
+        .pricing-box1 {
+            border: 2px solid #a3d9f7;
+            width: 400px;
+            height: 700px;
+            margin-top: 50px;
+            border-radius: 10px;
+        }
+
+        .pricing-box2 {
+            border: 2px solid #a3d9f7;
+            width: 400px;
+            height: 750px;
+            margin-left: 1px;
+            border-radius: 10px;
+            background-color: #252b42;
+            color: white;
+        }
+
+        .pricing-box3 {
+            border: 2px solid #a3d9f7;
+            width: 400px;
+            height: 700px;
+            margin-left: 1px;
+            margin-top: 50px;
+            border-radius: 10px;
+        }
+
+        .pricing-box {
+            display: flex;
+            margin-top: 100px;
+            margin-left: 170px;
+        }
+
+        .premium {
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: bold;
+            margin-left: 130px;
+            margin-top: 50px;
+        }
+
+        .FREE {
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: bold;
+            margin-left: 160px;
+            margin-top: 50px;
+        }
+
+        .cards-h4 {
+            margin-left: 130px;
+            margin-top: 40px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 500;
+        }
+
+        .cards-h5 {
+            margin-left: 160px;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-top: -10px;
+            font-weight: 500;
+        }
+
+        .cards-zero-19 {
+            color: #23a6f0;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 50px;
+            margin-left: 130px;
+
+        }
+
+        .per-month {
+            color: #8ec2f2;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: medium;
+            margin-left: 265px;
+            margin-top: -65px;
+        }
+
+        .per-month1 {
+            color: #8ec2f2;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: medium;
+            margin-left: 165px;
+            margin-top: -65px;
+        }
+
+        .sup {
+            font-size: medium;
+            font-weight: 700;
+            padding-left: 5px;
+
+        }
+
+        .green-tick-list {
+            padding-bottom: 30px;
+            list-style: none;
+        }
+
+        .green-tick-list i {
+            padding-right: 10px;
+        }
+
+        .green-tick {
+            margin-top: 50px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .per-month-blue {
+            color: #8ec2f2;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: medium;
+            margin-left: 235px;
+            margin-top: -65px;
+        }
+
+        .card-button {
+            background-color: #23a6f0;
+            border: none;
+            color: white;
+            border-radius: 5px;
+            width: 300px;
+            height: 50px;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 50px;
+            cursor: pointer;
+        }
+
+        .Get-In-Touch {
+            border: 1px solid black;
+            width: 1480;
+            height: 200px;
+            display: flex;
+            background-color: #252b42;
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+            padding-left: 200px;
+        }
+
+        .Get-In-Touch1 {
+            padding-top: 30px;
+        }
+
+        .Get-In-Touch h5 {
+            margin-top: -10px;
+            font-weight: 500;
+        }
+
+        .Get-In-Touch h2 {
+            font-size: xx-large;
+        }
+
+        .subscribe {
+            margin-left: 310px;
+            margin-top: 80px;
+
+        }
+
+        .subscribe form input {
+            width: 250px;
+            border: none;
+            border-top-left-radius: 5px;
+            border-bottom-left-radius: 5px;
+            height: 50px; 
+            padding-left:20px ;
+        }
+
+        .subscribe button {
+            background-color: #23a6f0;
+            color: white;
+            width: 100px;
+            height: 50px;
+            border: none;
+            border-top-right-radius: 5px;
+            border-bottom-right-radius: 5px;
+            cursor: pointer;
+        }
+
+        .last-page1 {
+            display: flex;
+            justify-content: space-evenly;
+            margin-top: 50px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
